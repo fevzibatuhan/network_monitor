@@ -53,7 +53,7 @@ sudo venv/bin/python main.py
 
 #### Linux için ek notlar:
 - `tkinter` sisteminizde yoksa: `sudo apt install python3-tk` (Debian/Ubuntu) veya `sudo dnf install python3-tkinter` (Fedora)
-- ARP taraması için root yetkisi gereklidir. Root olmadan uygulama ping taraması kullanır.
+- ARP taraması için root yetkisi gereklidir. Root olmadan uygulama ping taraması kullanır. Eğer ki customtkinter sistemde bulunamazsa `pip install customtkinter`(Debian/Ubuntu)
 
 ### Windows Kurulumu
 
